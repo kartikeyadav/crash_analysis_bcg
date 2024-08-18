@@ -1,0 +1,23 @@
+
+files:
+  inputpath: C:/Users/user/Downloads/src/CrashAnalysisProject/src/inputs/
+  outputpath: C:/Users/user/Downloads/src/CrashAnalysisProject/src/outputs/
+  sol1: sol1
+  sol2: sol2
+  sol3: sol3
+  sol4: sol4
+  sol5: sol5
+  sol6: sol6
+  sol7: sol7
+  sol8: sol8
+  sol9: sol9
+  sol10: sol10
+  charges: Charges_use.csv
+  damages: Damages_use.csv
+  endorse: Endorse_use.csv
+  person: Primary_Person_use.csv
+  restrict: Restrict_use.csv
+  units:  Units_use.csv
+  
+java_home: C:\Program Files\Java\jdk-17
+  
